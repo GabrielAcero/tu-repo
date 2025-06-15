@@ -3,3 +3,4 @@ Versión 1.1
 Versión 2
 Fix de error 1
 Fix de error 2
+Versión 2.0.1
